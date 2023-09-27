@@ -39,7 +39,6 @@ public class MainActivity extends BaseActivity {
         btn_callbackvoidmethod = (Button) findViewById(R.id.btn_callbackvoidmethod);
         btn_callbackintmethod = (Button) findViewById(R.id.btn_callbackintmethod);
         btn_callbackstringmethod = (Button) findViewById(R.id.btn_callbackstringmethod);
-        IntentService
     }
 
     @Override
